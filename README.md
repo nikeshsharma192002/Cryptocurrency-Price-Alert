@@ -10,9 +10,7 @@ This is a React-based web application that allows users to monitor cryptocurrenc
 - **Responsive Design**: The application is responsive and works well on both desktop and mobile devices.
 - **Cryptocurrency Icons**: Displays the cryptocurrency's logo next to its name for easy identification.
 
-## Demo
-
-![Crypto Price Alert Screenshot](./screenshot.png)
+## Live- https://cryptocurrency-price-alert.netlify.app/
 
 ## Installation
 
